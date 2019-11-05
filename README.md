@@ -40,6 +40,5 @@ Woensdag: inleveren
 ## Bronnen
 Welke bronnen heb je gebruikt? Zowel youtube filmpjes als artikelen
 
-- [Generation Tutorial](https://www.youtube.com/watch?v=hk6cUanSfXQ)
-- [Alleatoric Algorithms](link)
-- [Flood-Fill Wikipedia](link)
+- https://gamedevacademy.org/understanding-procedural-dungeon-generation-in-unity/
+

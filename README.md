@@ -1,6 +1,6 @@
 # procedurally generated dungeon
 
-ik heb een random dungeon room generator gemaakt door 
+ik heb een random dungeon room generator gemaakt door een kamer te instantiate met random enemies en random uitgangen en je kan pas veder als je alle enemies gedood heb
 
  
 
